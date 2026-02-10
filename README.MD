@@ -1,4 +1,7 @@
- # 🏨 Hotel Booking Cancellation Analysis
+![Hotel Booking problem and Solutions](https://www.graamoddhaarakendra.in/assets/img/pages/43_t8_07012001515751.jpg)
+
+
+# 🏨 Hotel Booking Cancellation Analysis
 
 This project analyzes hotel booking cancellations for City Hotels and Resort Hotels.
 High cancellation rates reduce revenue and leave rooms unused.
@@ -75,3 +78,4 @@ By improving pricing strategies and focusing on high-risk periods and locations,
 * Pandas, NumPy
 * Matplotlib, Seaborn
 * Jupyter Notebook
+
